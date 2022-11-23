@@ -1,0 +1,48 @@
+
+h1{
+    color:rgb(255, 250, 250);
+    font-size: 35px;
+    background-color: #080808;
+}
+p {
+   color:black;
+   font-size: x-large;
+
+}
+footer{
+  width: 20%;
+  height: 3%;
+  background-color: rgb(50, 61, 66);
+
+}
+.index{
+    background-image: url(../html5/img/teste1.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+}
+.conquistas_body{
+    background-image: url(../html5/img/teste2.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+}
+.redes_body{
+    background-image: url(../html5/img/teste3.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+}
+.contatos{
+    background-image: url(../html5/img/teste4.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+   
+}
+.apresentacao_body{
+    background-image: url(../html5/img/teste5.jpg.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+}

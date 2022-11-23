@@ -1,0 +1,123 @@
+/* fundo*/
+
+body {
+    background-image: url(//img/Semtítulo.png);
+}
+
+.background {
+    background-color: rgb(184, 220, 184);
+}
+
+div {
+    text-align: center;
+}
+
+#texto {
+    font-family: Brush Script MT, Brush Script Std, cursive;
+    font-size: 25px;
+}
+
+
+/*index*/
+
+.inicio {
+    color: rgb(7, 7, 7);
+    font-size: 35px;
+    background-color: rgba(251, 252, 250, 0.438);
+    text-align: center;
+    border-radius: 95px 10px;
+    margin-left: 195px;
+    margin-right: 195px;
+}
+
+section {
+    color: rgb(43, 56, 154);
+    font-size: 30px;
+    text-align: center;
+    margin-left: 220px;
+    margin-right: 195px;
+}
+
+button {
+    display: inline-flex;
+    color: rgb(243, 240, 246);
+    background-color: rgb(5, 4, 6);
+    text-decoration: none;
+    padding: 10px 10px;
+    border-radius: 10px;
+    border: 3px solid #94a9e6;
+}
+
+button:houver {
+    animation: pulsate 1s ease-in-out;
+}
+
+ul {
+    text-align: center;
+}
+
+
+/*paragrafo  index*/
+
+p {
+    color: black;
+    background-color: rgb(219, 242, 231);
+    font-size: x-large;
+    text-transform: uppercase;
+    border: 3px solid rgb(245, 241, 241);
+    border-radius: 5px;
+    padding: 2%;
+    text-align: center;
+    margin-left: 195px;
+    margin-right: 195px;
+}
+
+.index {
+    background-image: ;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+}
+
+.conquistas {
+    background-image: url();
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+}
+
+.redes {
+    background-image: url();
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+}
+
+<!-- faleconosco-->.contatos {
+    background-image: url();
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+}
+
+.apresentacao {
+    background-color: rgb(184, 220, 184);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+}
+
+
+/*apresentação*/
+
+section {
+    text-align: left;
+}
+
+
+/*footer apresentação*/
+
+.rodape {
+    position: relative;
+    width: 800px;
+}
